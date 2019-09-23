@@ -14,7 +14,6 @@ namespace TabuadaComFor
             for (int multiplicador = 0; multiplicador <= 10; multiplicador++)
             {
                 Console.WriteLine($"{n1} X {multiplicador} = {n1*multiplicador} ");
-
             }
         }
     }
